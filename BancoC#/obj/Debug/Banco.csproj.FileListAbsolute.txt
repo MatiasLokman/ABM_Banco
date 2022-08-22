@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\Banco\bin\Debug\Banco.exe.config
+C:\Users\User\Desktop\Banco\bin\Debug\Banco.exe
+C:\Users\User\Desktop\Banco\bin\Debug\Banco.pdb
+C:\Users\User\Desktop\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\User\Desktop\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\User\Desktop\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Banco\obj\Debug\Banco.exe
+C:\Users\User\Desktop\Banco\obj\Debug\Banco.pdb
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\bin\Debug\Banco.exe.config
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\bin\Debug\Banco.exe
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\bin\Debug\Banco.pdb
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\obj\Debug\Banco.exe
+C:\Users\User\Desktop\113870-1W4-Lokman, Matías-Banco-1.3\Banco\obj\Debug\Banco.pdb
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\bin\Debug\Banco.exe.config
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\bin\Debug\Banco.exe
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\bin\Debug\Banco.pdb
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\obj\Debug\Banco.FrmPrincipal.resources
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\obj\Debug\Banco.exe
+C:\Users\User\Desktop\ABM_Banco_Act\BancoC#_Act\obj\Debug\Banco.pdb
+C:\Users\User\Desktop\ABM_Banco\BancoC#\bin\Debug\Banco.exe.config
+C:\Users\User\Desktop\ABM_Banco\BancoC#\bin\Debug\Banco.exe
+C:\Users\User\Desktop\ABM_Banco\BancoC#\bin\Debug\Banco.pdb
+C:\Users\User\Desktop\ABM_Banco\BancoC#\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ABM_Banco\BancoC#\obj\Debug\Banco.FrmPrincipal.resources
+C:\Users\User\Desktop\ABM_Banco\BancoC#\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\User\Desktop\ABM_Banco\BancoC#\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ABM_Banco\BancoC#\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ABM_Banco\BancoC#\obj\Debug\Banco.exe
+C:\Users\User\Desktop\ABM_Banco\BancoC#\obj\Debug\Banco.pdb
